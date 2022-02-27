@@ -1,0 +1,71 @@
+.page-header {
+    height: auto;
+    border: 4px double black;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.logo {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    border: 4px double black;
+}
+
+
+.logotip {
+    margin-top: 20px;
+    border: 4px double black;
+    width: 72px;
+    height: 72px;
+}
+
+.m8 {
+    font-weight: 600;
+    width: auto;
+    font-size: 20px;
+    height: auto;
+    border: 4px double black;
+}
+
+.shd {
+    width: auto;
+    height: auto;
+    border: 4px double black;
+}
+
+.ochem {
+    border: 4px double black;
+}
+
+.menu {
+    width: 500px;
+    height: auto;
+    border: 4px double black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.glavnaia {
+    font-size: 20px;
+    border: 4px double black;
+}
+
+.igri {
+    font-size: 20px;
+    border: 4px double black;
+}
+
+.cva {
+    font-size: 20px;
+    border: 4px double black;
+}
+
+.podd {
+    font-size: 20px;
+    border: 4px double black;
+}

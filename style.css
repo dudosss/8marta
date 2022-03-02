@@ -1,0 +1,131 @@
+.page-header {
+    width: auto;
+    height: auto;
+    border: 4px double black;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.logo {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    border: 4px double black;
+}
+
+
+.logotip {
+    margin-top: 20px;
+    border: 4px double black;
+    width: 72px;
+    height: 72px;
+}
+
+.m8 {
+    font-weight: 600;
+    width: auto;
+    font-size: 20px;
+    height: auto;
+    border: 4px double black;
+}
+
+.shd {
+    width: auto;
+    height: auto;
+    border: 4px double black;
+}
+
+.ochem {
+    border: 4px double black;
+}
+
+.menu {
+    width: 500px;
+    height: auto;
+    border: 4px double black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.glavnaia {
+    font-size: 20px;
+    border: 4px double black;
+}
+
+.igri {
+    font-size: 20px;
+    border: 4px double black;
+}
+
+.cva {
+    font-size: 20px;
+    border: 4px double black;
+}
+
+.podd {
+    font-size: 20px;
+    border: 4px double black;
+}
+
+.posveshenie {
+    height: 330px;
+    border: 4px double black;
+}
+
+.hearrt {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 100px;
+    border: 4px double black;
+}
+
+.glavtxt {
+    margin-left: auto;
+    margin-right: auto;
+    width: 26em;
+    border: 4px double black;
+}
+
+.posv {
+    font-size: 35px;
+    width: 400px;
+    border: 4px double black;
+}
+
+.mii {
+    margin-left: auto;
+    margin-right: auto;
+    width: 61em;
+    height: auto;
+    border: 4px double black;
+}
+
+.miag {
+    height: 42px;
+    font-size: 18px;
+    width: 970px;
+    border: 4px double black;
+}
+
+.pozdraw {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    border: 4px double black;
+}
+
+.vid1 {
+    margin-top: 45px;
+}
+
+.video {
+    width: 300p;
+    height: 150px;
+    margin-left: 20px;
+}
